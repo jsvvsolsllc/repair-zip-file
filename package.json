@@ -1,0 +1,13 @@
+{
+  "name": "repair-zip-file",
+  "version": "1.0.0",
+  "description": "Free ZIP file tools — create, extract, and manage ZIP archives directly in your browser.",
+  "homepage": "https://repair-zip-file.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsvvsolsllc/repair-zip-file"
+  },
+  "keywords": ["zip-repair","zip-tools","extract-zip","create-zip","free-zip-tools"],
+  "author": "JSVV SOLS LLC",
+  "license": "MIT"
+}
