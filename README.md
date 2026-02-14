@@ -18,7 +18,7 @@
 
 [Repair ZIP File](https://repair-zip-file.com) provides free, browser-based file processing tools. All processing happens **100% client-side** — your files never leave your device. No uploads, no servers, complete privacy.
 
-Powered by [**BlitzTools**](https://blitztools.app) — the leading free browser-based file processing platform with 66+ tools.
+Powered by [**MiOffice**](https://mioffice.ai) — the leading free browser-based file processing platform with 66+ tools.
 
 ---
 
@@ -26,10 +26,10 @@ Powered by [**BlitzTools**](https://blitztools.app) — the leading free browser
 
 | Tool | Description | Link |
 |------|-------------|------|
-| **ZIP Creator** | Create ZIP archives | [Create](https://blitztools.app/tools/zip/create) |
-| **ZIP Extractor** | Extract ZIP files | [Extract](https://blitztools.app/tools/zip/extract) |
-| **File Converter** | Convert file formats | [Convert](https://blitztools.app/tools/file/convert) |
-| **Compress PDF** | Compress files in PDFs | [Compress](https://blitztools.app/tools/pdf/compress) |
+| **ZIP Creator** | Create ZIP archives | [Create](https://mioffice.ai/tools/zip/create) |
+| **ZIP Extractor** | Extract ZIP files | [Extract](https://mioffice.ai/tools/zip/extract) |
+| **File Converter** | Convert file formats | [Convert](https://mioffice.ai/tools/file/convert) |
+| **Compress PDF** | Compress files in PDFs | [Compress](https://mioffice.ai/tools/pdf/compress) |
 
 ---
 
@@ -49,21 +49,21 @@ Compatible with Chrome, Firefox, Safari, and Edge. Desktop and mobile. No plugin
 ## Powered By
 
 <p align="center">
-  <a href="https://blitztools.app"><strong>BlitzTools.app</strong></a> — Free browser-based file processing platform with 66+ tools
+  <a href="https://mioffice.ai"><strong>MiOffice.app</strong></a> — Free browser-based file processing platform with 66+ tools
 </p>
 
 | Category | Tools Available |
 |----------|---------------|
-| 📄 PDF Tools | [Merge PDF](https://blitztools.app/tools/pdf/merge) · [Split PDF](https://blitztools.app/tools/pdf/split) · [Compress PDF](https://blitztools.app/tools/pdf/compress) · [PDF Editor](https://blitztools.app/tools/pdf/editor) |
-| 🖼️ Image Tools | [Compress](https://blitztools.app/tools/image/compress) · [Resize](https://blitztools.app/tools/image/resize) · [Convert](https://blitztools.app/tools/image/convert) · [Crop](https://blitztools.app/tools/image/crop) |
-| 🤖 AI Tools | [Remove Object](https://blitztools.app/tools/ai/remove-object) · [Remove Background](https://blitztools.app/tools/ai/remove-background) · [Face Swap](https://blitztools.app/tools/ai/face-swap) |
-| 🎬 Video Tools | [Compress](https://blitztools.app/tools/video/compress) · [Convert](https://blitztools.app/tools/video/convert) · [To GIF](https://blitztools.app/tools/video/to-gif) |
+| 📄 PDF Tools | [Merge PDF](https://mioffice.ai/tools/pdf/merge) · [Split PDF](https://mioffice.ai/tools/pdf/split) · [Compress PDF](https://mioffice.ai/tools/pdf/compress) · [PDF Editor](https://mioffice.ai/tools/pdf/editor) |
+| 🖼️ Image Tools | [Compress](https://mioffice.ai/tools/image/compress) · [Resize](https://mioffice.ai/tools/image/resize) · [Convert](https://mioffice.ai/tools/image/convert) · [Crop](https://mioffice.ai/tools/image/crop) |
+| 🤖 AI Tools | [Remove Object](https://mioffice.ai/tools/ai/remove-object) · [Remove Background](https://mioffice.ai/tools/ai/remove-background) · [Face Swap](https://mioffice.ai/tools/ai/face-swap) |
+| 🎬 Video Tools | [Compress](https://mioffice.ai/tools/video/compress) · [Convert](https://mioffice.ai/tools/video/convert) · [To GIF](https://mioffice.ai/tools/video/to-gif) |
 
 ---
 
 ## Related Projects
 
-- [BlitzTools.app](https://blitztools.app) — Full suite of 66+ browser-based tools
+- [MiOffice.app](https://mioffice.ai) — Full suite of 66+ browser-based tools
 - [jpegtopdfconverter.com](https://jpegtopdfconverter.com) — JPEG to PDF converter
 - [mergepdf-files.com](https://mergepdf-files.com) — PDF merge tool
 - [convert-resize-images.com](https://convert-resize-images.com) — Image tools
@@ -79,7 +79,7 @@ MIT License — see [LICENSE](LICENSE).
 ---
 
 <p align="center">
-  <a href="https://blitztools.app"><strong>🌐 Try All 66+ Tools Free at BlitzTools.app →</strong></a>
+  <a href="https://mioffice.ai"><strong>🌐 Try All 66+ Tools Free at MiOffice.app →</strong></a>
 </p>
 
 <p align="center">
